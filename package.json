@@ -4,8 +4,8 @@
     "description": "Project 2 - MacGyver Meals",
     "main": "index.js",
     "engines": {
-        "node": "8.6.0",
-        "npm": "5.3.0"
+        "node": "6.11.3",
+        "npm": "5.4.2"
     },
     "scripts": {
         "start": "node server.js",
